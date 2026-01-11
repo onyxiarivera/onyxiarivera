@@ -1,7 +1,7 @@
 # Hey, I'm Nyx!
 
 ## What's happening in my life?
-- Certificate IV in Information Technology
+- Broken foot :(
 
 
 ## Setup
