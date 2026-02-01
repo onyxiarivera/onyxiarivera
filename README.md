@@ -1,16 +1,16 @@
 # Hey, I'm Nyx!
 
 ## What's happening in my life?
-- Broken foot :(
+- Diploma in IT
 
 
 ## Setup
-|                 	| **charred (PC)**                             	| **Surface 7 Pro**          	|
+|                 	| **charred (PC)**                             	| **HP ProBook 445 G7**       	|
 |-----------------	|----------------------------------------------	|----------------------------	|
-| **RAM**         	| Corsair VENGEANCE RGB PRO DDR4 32GB 3600MT/s 	| 8GB RAM LPDDR4             	|
-| **CPU**         	| AMD Ryzen 5 5600X                            	| Intel Core i5-1035G4       	|
+| **RAM**         	| Corsair VENGEANCE RGB PRO DDR4 32GB 3600MT/s 	| 16GB RAM DDR4               	|
+| **CPU**         	| AMD Ryzen 5 5600X                            	| AMD Ryzen 5 4500U       	    |
 | **GPU**         	| Nvidia GTX 1660 SUPER                        	| Integrated who cares       	|
-| **Storage**     	| 1TB SSD / 4TB HDD                            	| 128GB NVMe / 256GB microSD 	|
+| **Storage**     	| 1TB SSD / 4TB HDD                            	| 512GB NVMe                 	|
 | **Cooler**      	| AMD Wraith Stealth                           	|                            	|
 | **PSU**         	| Corsair RM750x 750W                          	|                            	|
 | **Motherboard** 	| MSI B450M PRO-VDH MAX                        	|                            	|
