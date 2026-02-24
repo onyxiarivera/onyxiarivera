@@ -5,15 +5,15 @@
 
 
 ## Setup
-|                 	| **charred (PC)**                             	| **HP ProBook 445 G7**       	|
-|-----------------	|----------------------------------------------	|----------------------------	|
-| **RAM**         	| Corsair VENGEANCE RGB PRO DDR4 32GB 3600MT/s 	| 16GB RAM DDR4               	|
-| **CPU**         	| AMD Ryzen 5 5600X                            	| AMD Ryzen 5 4500U       	    |
-| **GPU**         	| Nvidia GTX 1660 SUPER                        	| Integrated who cares       	|
-| **Storage**     	| 1TB SSD / 4TB HDD                            	| 512GB NVMe                 	|
-| **Cooler**      	| AMD Wraith Stealth                           	|                            	|
-| **PSU**         	| Corsair RM750x 750W                          	|                            	|
-| **Motherboard** 	| MSI B450M PRO-VDH MAX                        	|                            	|
+|                 	| **charred (PC)**                             	| **HP ProBook 445 G7**       	| **Homelab**        |
+|-----------------	|----------------------------------------------	|----------------------------	|----------------------|
+| **RAM**         	| Corsair VENGEANCE RGB PRO DDR4 32GB 3600MT/s 	| 16GB RAM DDR4               	|  8GB DDR4 3200MHz |
+| **CPU**         	| AMD Ryzen 5 5600X                            	| AMD Ryzen 5 4500U       	    | Intel i3-10100F |
+| **GPU**         	| Nvidia RTX 2070 SUPER                        	| Integrated who cares       	| NVIDIA GTX 1660 SUPER |
+| **Storage**     	| 1TB SSD / 1TB HDD                            	| 512GB NVMe                 	| 128GB SSD / 3TB HDD / 4TB HDD |
+| **Cooler**      	| AMD Wraith Stealth                           	|                            	|  idk i'll check late |r
+| **PSU**         	| Corsair RM750x 750W                          	|                            	| Seasonic 450W |
+| **Motherboard** 	| MSI B450M PRO-VDH MAX                        	|                            	| Yeah some MSI idk |
 
 ## Funny Infographs to Distract You
 <img src="https://ipv6.he.net/certification/create_badge.php?pass_name=nullnyx&badge=3" style="border: 0; width: 229px; height: 137px" alt="IPv6 Certification Badge for nullnyx"></img>
