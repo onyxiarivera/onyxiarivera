@@ -11,7 +11,7 @@
 | **CPU**         	| AMD Ryzen 5 5600X                            	| AMD Ryzen 5 4500U       	    | Intel i3-10100F |
 | **GPU**         	| Nvidia RTX 2070 SUPER                        	| Integrated who cares       	| NVIDIA GTX 1660 SUPER |
 | **Storage**     	| 1TB SSD / 1TB HDD                            	| 512GB NVMe                 	| 128GB SSD / 3TB HDD / 4TB HDD |
-| **Cooler**      	| AMD Wraith Stealth                           	|                            	|  idk i'll check late |r
+| **Cooler**      	| AMD Wraith Stealth                           	|                            	|  idk i'll check later |
 | **PSU**         	| Corsair RM750x 750W                          	|                            	| Seasonic 450W |
 | **Motherboard** 	| MSI B450M PRO-VDH MAX                        	|                            	| Yeah some MSI idk |
 
