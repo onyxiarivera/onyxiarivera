@@ -1,19 +1,19 @@
 # Hey, I'm Nyx!
 
 ## What's happening in my life?
-- Diploma in IT
+- Diploma in IT @ TAFE
 
 
 ## Setup
-|                 	| **charred (PC)**                             	| **HP ProBook 445 G7**       	| **Homelab**        |
-|-----------------	|----------------------------------------------	|----------------------------	|----------------------|
-| **RAM**         	| Corsair VENGEANCE RGB PRO DDR4 32GB 3600MT/s 	| 16GB RAM DDR4               	|  8GB DDR4 3200MHz |
-| **CPU**         	| AMD Ryzen 5 5600X                            	| AMD Ryzen 5 4500U       	    | Intel i3-10100F |
-| **GPU**         	| Nvidia RTX 2070 SUPER                        	| Integrated who cares       	| NVIDIA GTX 1660 SUPER |
-| **Storage**     	| 1TB SSD / 1TB HDD                            	| 512GB NVMe                 	| 128GB SSD / 3TB HDD / 4TB HDD |
-| **Cooler**      	| AMD Wraith Stealth                           	|                            	|  idk i'll check later |
-| **PSU**         	| Corsair RM750x 750W                          	|                            	| Seasonic 450W |
-| **Motherboard** 	| MSI B450M PRO-VDH MAX                        	|                            	| Yeah some MSI idk |
+|                 	| **charred (PC)**                             	| **2013 13" MacBook Air**       	          | **Homelab**                   |
+|-----------------	|----------------------------------------------	|------------------------------------------	|-------------------------------|
+| **RAM**         	| Corsair VENGEANCE RGB PRO DDR4 32GB 3600MT/s 	| 4GB RAM DDR3               	              | 8GB DDR4 3200MHz              |
+| **CPU**         	| AMD Ryzen 5 5600X                            	| Intel i5-4260U         	                  | Intel i3-10100F               |
+| **GPU**         	| Nvidia RTX 2070 SUPER                        	| Integrated who cares       	              | NVIDIA GTX 1660 SUPER         |
+| **Storage**     	| 1TB SSD / 1TB HDD                            	| 128GB SSD                 	              | 128GB SSD / 3TB HDD / 4TB HDD |
+| **Cooler**      	| AMD Wraith Stealth                           	| Tiny little fan that is trying its best 	| still haven't looked          |
+| **PSU**         	| Corsair RM750x 750W                          	|                            	              | Seasonic 450W                 |
+| **Motherboard** 	| MSI B450M PRO-VDH MAX                        	|                            	              | Yeah some MSI idk             |
 
 ## Funny Infographs to Distract You
 <img src="https://ipv6.he.net/certification/create_badge.php?pass_name=nullnyx&badge=3" style="border: 0; width: 229px; height: 137px" alt="IPv6 Certification Badge for nullnyx"></img>
@@ -25,5 +25,6 @@
 
 ## Credits
 - m'wife
+- antidepressants
 - monster energy
 - my lovely friends and family :)
