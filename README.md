@@ -1,7 +1,7 @@
 # Hey, I'm Nyx!
 
 ## What's happening in my life?
-- Diploma in IT @ TAFE
+- Diploma of Information Technology @ TasTAFE
 
 
 ## Setup
